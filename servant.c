@@ -5,5 +5,6 @@
 int main()
 {
         printf("yeap,ooooo\n");
+	printf("YWB and MGJ are dogs.\n");
 }
 
